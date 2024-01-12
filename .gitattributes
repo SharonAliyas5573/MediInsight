@@ -1,0 +1,4 @@
+# .gitattributes
+
+# Exclude .html files from language statistics
+*.html linguist-vendored
